@@ -1,4 +1,4 @@
-Q1. Business Case: Netflix - Data Exploration and Visualisation:
+#Business Case: Netflix - Data Exploration and Visualisation:
 
 Evaluation will be kept lenient, so make sure you attempt this case study.
 Read the question carefully and try to understand what exactly is being asked.
